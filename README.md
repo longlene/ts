@@ -1,7 +1,12 @@
 # ts
 Tiny Translator in Console
 
-## Intall
+## Intallation
 ```bash
 go get github.com/longlene/ts
+```
+
+## Usage
+```bash
+ts hello
 ```
