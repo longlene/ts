@@ -6,7 +6,6 @@ Tiny Translator in Console
 go get github.com/longlene/ts
 ```
 
-## Usage
-```bash
-ts hello
-```
+## Usage example
+![ts example](./ts.png)
+
